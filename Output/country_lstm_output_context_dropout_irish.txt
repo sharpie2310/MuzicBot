@@ -1,0 +1,85 @@
+----
+<start>
+X:12
+T:Lacand Bercharn
+T:Farouna do Limansen
+R:carol
+H:
+R:horonign
+C:Tarli fr Some Bans comed Brant (Thec 178.
+Z:id:hn-rag-
+M:3/4
+L:1/8
+K:A
+Ac | e2 e>f e>g e2 | fe d>c B>A | B2 A>B A2 | A2 A>c B>c | 
+d2 d>d d>f | e>d e>g f2 | d>fd>e d>B c>B | 
+f2 e>d e>d | e>fe d>e f>d | c>c B>c d2 e>f |
+d>f f>d f2a>f | d2 f>e d>B | c>B c>B A2 | F>A B>c |
+B>A B>c | d2 f>d | d>c c>B | G>A c>e | d2 d>f | 
+c2 e>d | c>c c>d | c2 c>d | c>d c>d | G2 G>B | G>G G>G | A>c c>d | d2 f>d | d>c d>c | B2 A>G | G>A G>A | A2 A>c | d2 d>c | c>d c>d | c2 d>e |
+f>c d>e | f2 d2 | f>g f>e | d2 c>d | c2 A>G | A2 A>c | B2 A>G | F2 A
+--------
+<start>
+X:17
+T:Polska fe araran (1 100777
+Z:id:hn-po
+M:3/4
+L:1/16
+K:Dm
+A2 | c2A2 | A2A2 | A>A | B>AG | E2D2 | A2BA | A2A | B>A | B2D2 | D2 | d2 d2 | d2 d2 | d2 d> | d>B | A2G | A2 | A2B2 | A2B2 | A2BA | A2BA | A2BA | A2BA | B>AG | B>DD | D2D2 | A2 | A2B2 | A2B | A2BA | A2 | A>B | A2D | D2D2 | A2BA | A2B | A>A | B2D2 | D2 | A2 | B>AG | A2D2 D2 | A2 | A>B A>D | E2 D2 | A2B | A2B | A2B | A2B | A2B | A>A | B>AG | E2D | D2 | 
+<end>
+<start>
+X:17
+T:Polska frer | anca aare | e2c2 | c2A | A>c | B>AG | D2 | E2 D2 | A2 | A2 | A2B2 | A2A2 | A2AG | A2BA | A2A2 | A>BA | A2B | A2B | A2B | A2B | A>A | B>AG | E2D2 | A
+--------
+<start>
+X:22
+T:Bourneel Bollon Boung
+R:schontis
+C:Trad Polla de cantes tmer (ilast Simon (1670-1933))
+H:Antrotander in thaettess tute.
+Z:iXXX-27i
+Z:id:hn-schontiis-2
+M:C|
+K:Dm
+A2 A>A B>cA|GE B>c d>e|fe ff/e/|df f>f|d>f fd c>d|Bc Bc|df gf ed|(3fec d2:|
+<end>
+<start>
+X:12
+T:La Reine da Laithi
+R:cortlan
+C:Tumalis tre ond
+R:sl\"angeolska
+C:Trad (hllsding, (1815-1980)
+H:Joh brain in "umorie Jn'an Sellem the mert Frorch
+R:slig\"ondes
+Z:id:hn-sohk2-ie-s2-
+M:C|
+K:D
+A2 |D FA dc AF|G3 E2 E2|cA B2 A2|c2 A2 cc|BA A2 G2|A4 A2|
+B2 Bc B2|dc BA d2|e2 f2 fe|fe d2 f2|
+e2 de fa|f2 d2 fe|de d2 ef|g2 fd fd|ef ed ^cd|1 B2 
+--------
+<start>
+obs 'ol
+'s'\
+o'm
+o'm
+''s \''l''i\''s lile'sellimeececelececlecebeeleellellelele
+e:|leele
+fellelee
+cellecllestteleeeblelestellelelestlllettees
+celellefellele,
+ceslelelelelleletolellelebellecetelelleelleelecellclecletteleleelellomelleelefll\"oteleslellellellelllceettlecestellcecllecllelecelelellecl\"olemlelssellelelelelelleclellslcellecslleliliteelttescemleelleceleceseleeeelelbelemellellleeteelecleleleleleeteeleleleleteece
+ceelem
+esteelleeleleleemeec
+ceelecelielleseleleleellecleclec
+eceleeceleleclelellee
+eelleetelleceltelelellestelleteteellelleelleelellelllel,llelltetleetellelelecececeseegbeemem
+--------
+<start>
+B3AAA A3:|| A A3:| A3 A A2A2| A3 A3|A3 A A2A|A A A3| A3 | A3 A3:| A3 AAAA|A3A A A A3|AAA A3:| A3 A A3|A A3A A3 A|A3 A2A A2| A3A A3 A3|AAA A3:| A3 A A3| A3 A3|A3 A3|A A A2|A A B/A3:| A3 A |A3 A3:|:|:  A A A3| A3 A3A A3| A2AA A2AA|A A A2:| A3  A A3A|AAA AA A4|A A3 A3| A3 A A3:| A3 A A2AA|A A A2A |AA3 A3:| A3 A A3|AAA A2:| A3 A3:| A3 A A A3A A2A|A A2A A3| A3 A A3|AA A A2AA|A A2A A|AAAAA A2||A A3 A3|A2A A2A|AA A3| A3 A|A2A A2:| A A A3|AA A3 AA|A A3| A4 || A3 A A2A2AABA A3 | A2 A3: | A2 A3|AA A3|A A A3:| A2 A| A3 A A2A2A A2A | A3A A3 A3| A3 A3 A3|A A A A3|AAA A|AAA A|ABA A3:|| A2 A A2A A3:| A2A A3|
+--------
+<start>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+----

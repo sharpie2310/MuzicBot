@@ -1,0 +1,78 @@
+----
+<start>
+X:4
+T:Lersing Berga
+R:slide
+Z:id:hn-sohe
+S:Carnmand
+Z:id:hn-sp-Mavins-2
+M:3/4
+L:1/8
+K:G
+BA Bd Bd|d2 ed Bc|d2 d2 dc|B>A Bc/d/|
+e2 e>f e>d|c2 B>A G>A|B2 cB AB|
+c2 c>c | B>A B>c | d2 d>c | c2 d> c>B | A2 A>G G>A|
+G2 B>c d>e| f2 e>d c>B | A>c A>c d>c | A>c d>c B>A |
+d2 d>c d>c | d>f d>c G>B c>c | e2 d>e d2 d>c|
+d>f e>d B>d | c>d e>f d>f | a>f e>d e>f | e>de d>B A>^c |
+d2 d2 d>f | g>f e>d e>d | c2 B> A>B A> | B2 B> B>A B2 |
+d>f f>d e>d | c2 fe dc | B2 d>f e>| c>B c>B A>F |
+A>B cd e>f | f2 f>e d>B | c>c B>A B>c | d>c d>B G2 |
+A>B cd f>e | d>c B>c d>e | f2 d>f d>f | f2 f>e d>B | A2 A>F G>FE |
+E2 E2 F
+--------
+<start>
+X:1
+T:Polska Brarto hath (asska tatth (1 K100
+K:Am
+A2 A2 | A2A | A2B | A>A | B>A | D2D | D2D | D2D | A2 | A2A2 | A2BA | A2A | B>AG | F2D2 | A2 | d2 f>d | e2cd | d2cd | d2 d2 | d2 d2 | d2 d2 | d2 d2 | d2 d2 | d2 d2 | d2B2 | d2 | d>c | B2A | B>A | B2A | A2A2 | A2A2 | A>A | B2D2 D2|D2 D2 | A2B2 | d2Bc | d2BA | d2 | d>c | B2A | B2 | A2B2 | d2Bd | d2BA | A2BA | A2A | B>AG | B2D | A>D | D2DF | A2A | A2BA | A2BA | A2A | B>A | B>AG | B2 | A2G2 | A2A2 | A2AG | A2A | B>AG | A2D2 D2 | A2 | A2B | A2B2 | A2BA | A>AG | A>DE D2D2|D2 D2 | A2 | A>B | D2D | D2 | A2 | d2 | d2 | d2 | e2 | c2A | A2B | A2B | A2A | 
+--------
+<start>
+X:10
+T:Locarilla (1922))
+O:France
+Z:ho-schottin
+C:Martin La Lincsouvi
+M:6/8
+L:1/8
+K:G
+ef|g2 de fe|de ed Bc|d2 de fe|df gf ee|df ef gf|ed ef ge|
+fe fe fe|dc BA G/A/F/A/|G2 GB GA|B2 A2 :|
+<end>
+<start>
+X:10
+T:La bainain
+C:Palar Meligo
+O:Franca
+Z:id:hn-schottis-29
+M:C|
+L:1/8
+K:G
+e2d2 d2f2|e2d2 c2|A2 G2 A2|^G2G A2|B2 B2 A2|
+A2 A2 B2|c2 A2 Bc|d2 A2 G2|BA G2 B2|A4:|
+<end>
+<start>
+X:12
+T:Las deacde denna
+D:Danar Aurains Leath
+R:har danel
+Z:id:hn-sc-24
+M:6/8
+L:1/86
+K:G
+BABG G2BG ABAG|B2A2 B2AG|A2A2 AF|GFGF G2A2|
+c2Bc d2B2|G2G2 G2B2|c2c2 A2G2|B2B2 G2|B2B2 G2:|
+|:f2|d2c2 d2f2|f2f2 f2f2|e2f2 f2f2|e2e2 e2
+--------
+<start>
+ssttellleltttsescesllellleetellecesllleclelellelleelellletteelelllettelemelellecleteeelelleeleleelleltellelleellelemelelellletteelleelcellelelelestettelleellelleellelllttetellelleellellelemellecllellellleelleclecetleelelleelleltettelebellellellelflelleellelllelteellemtcelleleletelleltellellllclectelellellelettepelel\"olelteleelellemeleeteeeelettelelilelelellellecleepelleclelleclelestelleebe\geleel,stellestellelletlleclleeleceeleeceeleleeceleletelbellescellecleltelle
+fellelleelleltellellles
+selleellelelemmelecels\\eelle
+elsleteftelbeeleemeelelelelelte
+Reslillleelele.
+ecselleclteeleemlelellelele
+--------
+<start>
+B4:|AAA A3| A3A A3|A3A A A2A A|A3 A A3:| A A A3|AA A3 A|AAA A3|| A3 A A|A2 A3:| A3 A A3|A2A A A3A || A2A A3| A A2A A2 || A3 A A3AA| A2A A3A A2|A A3A A3| A3 A3| A A A3A|A3 A A2|A2A A | A3 | A3 | A2 |AAA A3:| |  A A A3:| A3 A A3|A4 A A3|A A3A A3:| | A3  A|AAA A |A2A A3:|| A A A3:| A3 A3A A2A A3:|A A3 A3|A A A A3| A3 A A3|AAA A3:| A3 A A2A2A|A3 A A3|A3 A A3| A3A A3:| A2 A3:| A A A3:| A3 A A3| A3 A3| A3 A A3|A3A A2A |A A2A :| A3 A A3 | A2 A3:| A2 A A3|AA A3:| A3 A A2A|A3| A3 | A3 A | A2 A A3:| A3 A3 ||A A A3|A A A4:|| A A3:|
+| AA A3 A3 A3:| 3 A A3:||| A A | A2A A A2A3 | A2A A3|:| A A2A A2A2 A2A A3
+----

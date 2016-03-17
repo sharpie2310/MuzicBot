@@ -1,0 +1,79 @@
+----
+<start>
+X: 16
+T:Schottishh rain
+R:Farand
+A:Strappis (e/ab-arfer
+Z:id:hn-ch-2f2MM326
+M:C/4
+K:G
+GA BA/G/ AB cd|e2 ef gf|ed ^c/d/ef|df df/e/|fd f2|de fe/f/|gf ed|d>c Bc|d>d cA|FG F2|
+A2 B>c|de f>f|fe f>d|ec ec|d2 df|
+f>f c>c|dc Bc|d>f ec|dc Bc|df f>d|cd cB|A>G F>G|
+A2 d>c|B>A F>A|Bc Bc|d2 d2 dc|B>c Bc d>|
+fe dc Bc|dc Bc df|ef gf ec|dc Bc df|
+e2 fe fe|fe fe dc|dc Bc df|
+e2 fe fe|fe fe dc|dc Bc df|f2 ff ef|dc dc Bc|d2 df ec|1 d2 fe fd:|2 d2 fe ||
+|: a2 a2 gf|e2 e/ fe|de fe | d2 d2 ed|d4 |
+d2 fe df|e2 e2 fe|d2 df ed|f2 f2 ef|gf ed ef|g2 fe dc|B2 df ec|d2 df ec|1 d2 c2 :|
+<end>
+<start>
+X:22
+T:Las che de ta S
+--------
+<start>
+X:11
+T:Polkk af er arat (1 1007777
+Z:Poursto ta aarati palla (aarm (1 L11777
+Z:Pous tat tanta patthe tattettattottanta partit (1 M137
+K:Am
+AdBc | c2AG | A2B2 | A2BA | A2A2 | A>B | A2BA | d2 | d2B2 | A2A | B>AG | F2D2 | D2D2 | A2AB | A>BA | B2A | B2 | d2B | A2B | A>A | B2D2 | A2 | A2 | B>AG | D2D | D2 | A2BA | A2BA | A2BA | A2BA | d2 | e2c | B2A | B>A | B>AG | E2D | A2B | A2BA | A2BA | A2B | A>BA | B2A | B>A | B>AD | D2D | D2 | A2 | A2G2 | A2BA | A2A2 | A>A | B>AG | E2D2 | A2A2 | A2BA | d2B | B>AG | A2B | A>B | A2A | A2 | A2B | A>B | A2A | B>A | D2D | D2D | D2D2 | A2A2 | A>BA | F2D | A2 | A2 | 
+--------
+<start>
+X: 16
+T:Scottish ( Larnan aigs
+R:scho
+C:Pers Brann onde Pilo Manch
+Z:id:hn-s--18
+Y:Co4
+L:1/8
+K:G
+e2 | f2 dd cd|ef gf ef|ef ed ef|ed Bd cB|A2 A2 Af|fe df ed|1 Bc de f2:|2 f2 df ||
+P:Varsanion oletl
+|:GA G2 BG|de f2 gf|ef ed cd|ec ce dc|
+fe fd cd|1 d2 fd cA|B2 d2 G2|B2 A2 :|2 f2 af|g2 ed |
+c2 cA | B2 GA GB|A2 G2 GA|BG EF G2|1 A2 AG :|2 A2 A2|B2 AG|F2 G2|A>B GA|G2 G2:|
+|:A2 A>c|d2 f>d|d>c de|d2 fe|df df|dc de|d2 dd|
+dc Ac|dc BA|d2 e2|fe dc|d2 ed|dc de|dc de|fd dc|dB cd|1 d2 dc:|2 A2:|
+<end>
+<start>
+X:11
+T:Polka Plla du Samen
+R:slin (3
+M:3/4
+L:1/8
+K:G
+A2 AB/c/ d2|c2 Bc/d/|ef gf ef|d2 cB AG|F2 A2 B
+--------
+<start>
+t3
+b3e
+g2gegagaggecagegeegeeagageggeegga\eag
+f2gee,
+geleelelelelllelleltellellelllelleeleeleeleelle
+ceelelleel
+feleelleestelletteelelbellecleltellellellecltcelellelelellelleelelelleolleleclelellleelelleellelecellelecelleeleeleclllellestemlellestleleleneleleelelllemeeteelc\t\"oleelleleteleececlllefte\bellelllelleclecellecleelecleeleleleltlecleele
+celeelel
+feleleleltellecleleeclellelteet\eelleelleesce
+ceelelelemeleellecll\"ome,
+beslelelteeleleltee
+celemesceleblebbelelceceleselemettele
+feeleleeleletellettel
+B:tell\"olelsellecstellelleleetlecelebelclecsselellelb
+eelelleellelleetteeblelt
+eeteelelte
+--------
+<start>
+g3|:A4 :|
+B3 A3:|A A A A A|AA A A3| A3 A A3:| A3  A3| A3 AA| A A| A3 | A3 | A3 A A2A|A3 A3 || A3 A3 || A A A3:||  | A A2A A3:| AA A3 A3|A2A A2A A|A4 A3|A A4 ||A2 A A2A|A3 A4| A3 A3:| A3 A A3|AA A A3:| A3 A3 |A3 A3 AAA2A B2A | A3 A|A2A A2A A3| A3 A A3:|| A A A A2A2A2 A3:| A3 AAA2A A3|AA A3:|| | A A |2A3 A3:|| A A A2A|B2A AA A3:| A|A A2 A|A4 A4|| A A A AAA|A2AA A4| A3 |:| A3 A A3||A A2A A || A A A3| A3 A A3:| A2 A2 A4|AA A3:| A3 A | A3 A3| A2A A3:|A3 A A3:|| A A A3:|  A3 A A3|AAA A3|A3  A|A A A|AAA A|:| A A3 A|A2A A2 A3| A2A A3 A3|AA A A2A A|A A A2A A3|AAA A3 | A3 AAA|A3 A A3|AA A A3|AA A A3|A3 
+----

@@ -1,0 +1,22 @@
+invalid literal for int() with base 10: ''
+need more than 1 value to unpack
+invalid literal for int() with base 10: ''
+no active default note length provided for note processing. tPrev: <music21.abcFormat.ABCBar '|:'>, t: <music21.abcFormat.ABCNote 'p'>, tNext: <music21.abcFormat.ABCMetadata 'C:The Magstedanden (1868-1853), L\\"Osbb4'>
+no active default note length provided for note processing. tPrev: <music21.abcFormat.ABCMetadata 'H:'>, t: <music21.abcFormat.ABCNote 'A'>, tNext: <music21.abcFormat.ABCNote 'c'>
+invalid literal for int() with base 10: ''
+invalid literal for int() with base 10: ''
+invalid literal for int() with base 10: ''
+no active default note length provided for note processing. tPrev: <music21.abcFormat.ABCMetadata 'R:hornpi'>, t: <music21.abcFormat.ABCNote 'e'>, tNext: <music21.abcFormat.ABCBar ':'>
+invalid literal for int() with base 10: ''
+invalid literal for int() with base 10: ''
+invalid literal for int() with base 10: ''
+invalid literal for int() with base 10: ''
+need more than 1 value to unpack
+invalid literal for int() with base 10: ''
+invalid literal for int() with base 10: ''
+invalid literal for int() with base 10: ''
+invalid literal for int() with base 10: ''
+invalid literal for int() with base 10: ''
+invalid literal for int() with base 10: ''
+no active default note length provided for note processing. tPrev: <music21.abcFormat.ABCMetadata 'R:malou'>, t: <music21.abcFormat.ABCNote 'c'>, tNext: <music21.abcFormat.ABCBar ':'>
+invalid literal for int() with base 10: ''
